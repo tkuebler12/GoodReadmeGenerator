@@ -1,0 +1,25 @@
+{
+  "name": "GoodReadmeGenerator",
+  "version": "1.0.0",
+  "description": "Homework Week 9",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkuebler12/GoodReadmeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkuebler12/GoodReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/tkuebler12/GoodReadmeGenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0",
+    "path": "^0.12.7"
+  }
+}
