@@ -1,8 +1,8 @@
-# t
+# Good README Generator
     
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## description
-t
+this application creates a quick README file based on user input
 ## tableOfContents
 * [installation](#installation)
 * [usage](#usage)
@@ -13,16 +13,16 @@ t
 * [license](#license)
     
 ## installation
-t
+npm install inquirer
 ## usage
-t
+this project will be used to help other developers create accurate README files in a quick amount of time
 ## contributing
-t
+this project will contribute to the understanding of inquirer and backend coding for myself as well as helping other developers creating README files quickly
 ## tests
-t
+npm test
 ## email
-t
+tim@gmail.com
 ## github
-t
+tkuebler
 ## license
 MIT 
